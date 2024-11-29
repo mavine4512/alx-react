@@ -4,7 +4,7 @@ JavaScript
 ES6
 React
 
- By: Mavine Naaman, Engineering Manager at Uber Works
+ By: Mavine Naaman,
  Weight: 1
  Project will start Nov 25, 2024 6:00 AM, must end by Nov 29, 2024 6:00 AM
  Manual QA review must be done (request it when you are done with the project)
